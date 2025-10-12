@@ -1,6 +1,8 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋 
 
-![Profile views](https://komarev.com/ghpvc/?username=riddhimohansharma)
+![Profile views](https://komarev.com/ghpvc/?username=riddhimohansharma&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RiddhiMohanS?style=social)](https://twitter.com/RiddhiMohanS)
+[![GitHub Followers](https://img.shields.io/github/followers/riddhimohansharma?style=social)](https://github.com/riddhimohansharma)
 
 <p align="center">
 <img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240" alt="Riddhi Mohan Sharma"/>
