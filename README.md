@@ -1,5 +1,5 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
-<img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="120"/>
+<img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240"/>
 
 ## 🏆 About Me
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
