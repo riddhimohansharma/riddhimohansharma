@@ -4,13 +4,11 @@
 <img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240" alt="Riddhi Mohan Sharma"/>
 </p>
 
-
 ## 🏆 About Me
 - Architecting enterprise platforms for High-ROI impact.
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, Identity, MarTech, and Healthcare.
 - Passionate about volunteering, mentoring, alumni networking, and sharing deep insights.
-
 
 ## ❓Ask Me Anything
 - Curious about technology leadership, executive education, AI, or career growth?  
@@ -23,7 +21,7 @@
 
 <!-- | [Personal Website](https://riddhisharma.com) -->
 
-## Fun Facts
+## ⚡ Fun Facts
 If you don't find me coding, I'm probably:
 - Writing on LinkedIn or Medium
 - Reading about strategy, AI, and leadership breakthroughs
