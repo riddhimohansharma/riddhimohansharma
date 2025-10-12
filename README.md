@@ -15,11 +15,15 @@
 - Want tips on mentoring or professional networking?
 
 ## 🌐 Connect
+
+[<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma) [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_twitter.svg" width="28" alt="X/Twitter Riddhi Mohan Sharma"/>](https://twitter.com/RiddhiMohanS) [Medium](https://medium.com/@riddhimohansharma)
+
+<!-- 
 - [LinkedIn](https://linkedin.com/in/riddhimohansharma)
 - [X/Twitter](https://twitter.com/RiddhiMohanS)
 - [Medium](https://medium.com/@riddhimohansharma)
-
-<!-- | [Personal Website](https://riddhisharma.com) -->
+| [Personal Website](https://riddhisharma.com) 
+-->
 
 ## ⚡ Fun Facts
 If you don't find me coding, I'm probably:
