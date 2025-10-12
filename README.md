@@ -19,11 +19,9 @@ Drop a question in [GitHub Discussions](https://github.com/riddhimohansharma/rid
 
 
 ## 🌐 Connect
-[LinkedIn](https://linkedin.com/in/riddhimohansharma)
-
-[X/Twitter](https://twitter.com/RiddhiMohanS)
-
-[Medium](https://medium.com/@riddhimohansharma)
+- [LinkedIn](https://linkedin.com/in/riddhimohansharma)
+- [X/Twitter](https://twitter.com/RiddhiMohanS)
+- [Medium](https://medium.com/@riddhimohansharma)
 
 <!-- | [Personal Website](https://riddhisharma.com) -->
 
