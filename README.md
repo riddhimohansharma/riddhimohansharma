@@ -6,7 +6,7 @@
 
 
 ## 🏆 About Me
-- Architecting enterprise platforms for high-ROI impact
+- Architecting enterprise platforms for High-ROI impact.
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, Identity, MarTech, and Healthcare.
 - Passionate about volunteering, mentoring, alumni networking, and sharing deep insights.
