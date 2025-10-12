@@ -14,9 +14,7 @@
 
 ## ❓Ask Me Anything
 - Curious about technology leadership, executive education, AI, or career growth?  
-- Want tips on mentoring, professional networking?
-Drop a question in [GitHub Discussions](https://github.com/riddhimohansharma/riddhimohansharma/discussions)
-
+- Want tips on mentoring or professional networking?
 
 ## 🌐 Connect
 - [LinkedIn](https://linkedin.com/in/riddhimohansharma)
