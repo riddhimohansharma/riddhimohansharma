@@ -1,5 +1,5 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
-<img src="https://avatars.githubusercontent.com/u/riddhimohansharma" width="120"/>
+<img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma" width="120"/>
 
 ## 🏆 About Me
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
@@ -8,8 +8,9 @@
 
 
 ## ❓Ask Me Anything
-Curious about technology leadership, executive education, AI, or career growth?  
-Want tips on mentoring, p rofessional networking, or global credential strategies?  
+- Curious about technology leadership, executive education, AI, or career growth?  
+- Want tips on mentoring, professional networking?
+Drop a question in [GitHub Discussions](https://github.com/riddhimohansharma/riddhimohansharma/discussions)
 
 
 ## 🌐 Connect
