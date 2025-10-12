@@ -1,14 +1,16 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
-<img src="https://avatars.githubusercontent.com/u/riddhimohansharma?v=4" width="120"/>
+<img src="https://avatars.githubusercontent.com/u/riddhimohansharma" width="120"/>
 
-## About Me
+## 🏆 About Me
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, MarTech, and Healthcare.
 - Passionate about volunteering, mentoring, alumni networking, and sharing deep insights.
 
-## ⚡ Skills
-Product Leadership · AI & GenAI Roadmaps · Platform Engineering  
-Cloud (Azure, AWS) · API & DevOps · Team Building
+
+## ❓Ask Me Anything
+Curious about technology leadership, executive education, AI, or career growth?  
+Want tips on mentoring, p rofessional networking, or global credential strategies?  
+
 
 ## 🌐 Connect
 [LinkedIn](https://linkedin.com/in/riddhimohansharma)  
