@@ -4,7 +4,7 @@
 ## About Me
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, MarTech, and Healthcare.
-- Passionate about volunteering, alumni networking, and sharing deep insights.
+- Passionate about volunteering, mentoring, alumni networking, and sharing deep insights.
 
 ## ⚡ Skills
 Product Leadership · AI & GenAI Roadmaps · Platform Engineering  
