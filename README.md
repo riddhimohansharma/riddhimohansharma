@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240" alt="Riddhi Mohan Sharma"/>
 </p>
+
 ## 🏆 About Me
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, MarTech, and Healthcare.
