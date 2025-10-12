@@ -1,11 +1,12 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
-Architecting enterprise platforms for high-ROI impact
+
 <p align="center">
 <img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240" alt="Riddhi Mohan Sharma"/>
 </p>
 
 
 ## 🏆 About Me
+- Architecting enterprise platforms for high-ROI impact
 - Focused on transformative technology leadership, strategic growth, and cross-continental impact.
 - Frequent contributor to executive thought leadership in AI, Identity, MarTech, and Healthcare.
 - Passionate about volunteering, mentoring, alumni networking, and sharing deep insights.
@@ -20,8 +21,10 @@ Drop a question in [GitHub Discussions](https://github.com/riddhimohansharma/rid
 ## 🌐 Connect
 [LinkedIn](https://linkedin.com/in/riddhimohansharma)
 
-[X/Twitter](https://twitter.com/RiddhiMohanS) 
+[X/Twitter](https://twitter.com/RiddhiMohanS)
+
 [Medium](https://medium.com/@riddhimohansharma)
+
 <!-- | [Personal Website](https://riddhisharma.com) -->
 
 ## Fun Facts
