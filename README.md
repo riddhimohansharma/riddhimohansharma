@@ -1,6 +1,4 @@
 # Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhimohansharma&show_icons=true)
 <img src="https://avatars.githubusercontent.com/u/riddhimohansharma?v=4" width="120"/>
 
 ## About Me
@@ -25,6 +23,8 @@ If you don't find me coding, I'm probably:
 - Coaching and mentoring future tech leaders
 - Curating alumni and professional networking events
 - Sharing insights on personal branding and cross-continental impact
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhimohansharma&show_icons=true)
 
 <!--
 **riddhimohansharma/riddhimohansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
