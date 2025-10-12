@@ -1,8 +1,10 @@
-# Hola! I'm Riddhi Mohan Sharma (RMS)! 👋
+# Hola! I'm Riddhi Mohan Sharma (RMS)! 👋 
+
+![Profile views](https://komarev.com/ghpvc/?username=riddhimohansharma)
 
 <p align="center">
 <img src="https://github.com/riddhimohansharma/riddhimohansharma/blob/main/Riddhi Mohan Sharma.jpg" width="240" alt="Riddhi Mohan Sharma"/>
-</p>
+</p> 
 
 ## 🏆 About Me
 - Architecting enterprise platforms for High-ROI impact.
