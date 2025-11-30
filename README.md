@@ -18,7 +18,7 @@ Engineering Leader. Global Architect of Identity & AI Systems. Expert in M&A Tec
 
 ## 🌐 Connect
 
-[RiddhiMohan.com](https://www.riddhimohan.com) <img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma)
+[RiddhiMohan.com](https://www.riddhimohan.com) [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma)
 <!-- 
 [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma) [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_twitter.svg" width="28" alt="X/Twitter Riddhi Mohan Sharma"/>](https://twitter.com/RiddhiMohanS) [Medium](https://medium.com/@riddhimohansharma)
 
@@ -32,7 +32,7 @@ Engineering Leader. Global Architect of Identity & AI Systems. Expert in M&A Tec
 
 ## ⚡ Fun Facts
 If you don't find me coding, I'm probably:
-- Writing on cross-continental impact [my blog](https://www.riddhimohan.com)
+- Writing on cross-continental impact on [my blog](https://www.riddhimohan.com)
 - Volunteering with education/ tech communities
 - Coaching and mentoring future tech leaders
 
