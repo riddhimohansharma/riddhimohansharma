@@ -17,12 +17,12 @@ Engineering Leader. Global Architect of Identity & AI Systems. Expert in M&A Tec
 - Curious about technology leadership, executive education, AI, or career growth?  
 - Want tips on mentoring or professional networking?
 
-
+<!-- 
 ## 🌐 Connect
 
 [RiddhiMohan.com](https://www.riddhimohan.com)
 [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma)
-<!-- 
+
 [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_linkedin.svg" width="28" alt="LinkedIn Riddhi Mohan Sharma"/>](https://linkedin.com/in/riddhimohansharma) [<img src="https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/images/share_twitter.svg" width="28" alt="X/Twitter Riddhi Mohan Sharma"/>](https://twitter.com/RiddhiMohanS) [Medium](https://medium.com/@riddhimohansharma)
 
 
