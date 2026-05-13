@@ -36,7 +36,7 @@ Engineering Leader. Global Architect of Identity & AI Systems. Expert in M&A Tec
 ## ⚡ Fun Facts
 If you don't find me coding, I'm probably:
 - Writing on cross-continental impact on [my blog](https://www.riddhimohan.com)
-- Volunteering with education/ tech communities
+- Volunteering with tech communities
 - Coaching and mentoring future tech leaders
 
 <!--
