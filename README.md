@@ -11,7 +11,7 @@
 -->
 
 ## 🏆 About Me
-Engineering Leader. Global Architect of Identity & AI Systems. Expert in M&A Technology Integration for 10x Growth.
+Engineering Leader · Global Identity & Agentic AI · 3.5M+ Healthcare Professionals · M&A Integration · IEEE Senior Standards Contributor · Columbia EPM’26 · WebMD
 
 ## ❓Ask Me Anything
 - Curious about technology leadership, executive education, AI, or career growth?  
