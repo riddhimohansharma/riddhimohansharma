@@ -11,7 +11,7 @@
 -->
 
 ## 🏆 About Me
-Engineering Leader · Global Identity & Agentic AI · 3.5M+ Healthcare Professionals · M&A Integration · IEEE Senior Standards Contributor · Columbia University EPM’26 · WebMD
+Senior Technology Leader · Global Identity & Agentic AI · 3.5M+ Healthcare Professionals · M&A Integration · IEEE Senior Standards Contributor · Columbia University EPM’26 · WebMD
 
 ## ❓Ask Me Anything
 - Curious about technology leadership, executive education, AI, or career growth?  
